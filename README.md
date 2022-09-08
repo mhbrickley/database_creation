@@ -3,7 +3,7 @@
 
 # Project Background
 
-The goal of this project was to create a conceptual as well as physical entity relationship diagra for a fictional business of choice (car dealership)
+The goal of this project was to create a conceptual as well as physical entity relationship diagram for a fictional business of choice (car dealership)
 
 The main components for these types of diagrams include the entities, their attributes, and the relationships between the entities
 
