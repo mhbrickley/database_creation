@@ -1,5 +1,5 @@
 #### Final project for `MET CS 699 - Database Design & Implementation for Business` 
-### Creation of a database management system for a product/service
+### Creation of a database for a product/service
 
  - [Summary](#summary)
  - [Conceptual Entity Relationship Diagram](#conceptual-entity-relationship-diagram)
