@@ -1,14 +1,41 @@
-#### Final project for `MET CS 699 - Database Design & Implementation for Business`
+#### Final project for `MET CS 699 - Database Design & Implementation for Business` 
+### Creation of a database management system for a product/service
+
+ - [Summary](#summary)
+ - [Conceptual Entity Relationship Diagram](#conceptual-entity-relationship-diagram)
+ - [Physical Entity Relationship Diagram](#physical-entity-relationship-diagram)
+ 
 ------
 
-# Project Background
+# Summary
 
-The goal of this project was to create a conceptual as well as physical entity relationship diagram for a fictional business of choice (car dealership)
-
-The main components for these types of diagrams include the entities, their attributes, and the relationships between the entities
-
-The relationships between the entities were represented using Crow's Foot notation, with the database structure including normalization where appropriate
-
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0001.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0002.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0003.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0004.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0005.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0006.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0007.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0008.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0009.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0010.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0011.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0012.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0013.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0014.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0015.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0016.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0017.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0018.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0019.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0020.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0021.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0022.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0023.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0024.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0025.jpg)
+![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0026.jpg)
+------
 # Conceptual Entity Relationship Diagram
 
 ![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/conceptual_ERD.jpg)
