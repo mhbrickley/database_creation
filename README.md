@@ -35,7 +35,7 @@
 ![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0024.jpg)
 ![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0025.jpg)
 ![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/project_overview/0026.jpg)
-------
+
 # Conceptual Entity Relationship Diagram
 
 ![alt text](https://github.com/mhbrickley/database_creation/blob/main/jpg/conceptual_ERD.jpg)
